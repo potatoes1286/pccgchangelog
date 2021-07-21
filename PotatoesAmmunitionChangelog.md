@@ -15,3 +15,4 @@
 ## PAGE EDITS
 - Mod changed from "weapon" to "ammo"
 - Placeholder icon replaced
+- Added assetbundle manifest to Deli file
