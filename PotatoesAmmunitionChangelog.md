@@ -10,7 +10,7 @@
 - +++P Kolibri ammo renamed to +P
 - Spread for Lionshot 55 Boys increased
 
-# Potatoes' Ammunition v9.0.001
+# Potatoes' Ammunition v9.0.1
 
 ## PAGE EDITS
 - Mod changed from "weapon" to "ammo"
