@@ -16,5 +16,4 @@
 - Fixed Arex Carbine grip not disappearing when replaced with a Modul grip
 - "Gilsenti" renamed to correct "Glisenti"
 - SP2022 Rail Mount no longer jitters
-- LCRs can now have foregrips
 - Fixed the Hi Point slide moving waaay too far back
