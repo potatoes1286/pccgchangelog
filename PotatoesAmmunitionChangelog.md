@@ -1,11 +1,15 @@
-# Potatoes' Ammunition v9.0.1
+# Potatoes' Ammunition v9.0.101 - Unnecessary Fix
+- Ammunition icon's source added to page
+- Fixed the manifest accidentally being globbed and attempted to load (fails then moves on, so this fix changes nothing for the user.)
+
+# Potatoes' Ammunition v9.0.1 - Page Edit
 
 ## PAGE EDITS
 - Mod changed from "weapon" to "ammo"
 - Placeholder icon replaced
 - Added assetbundle manifest to Deli file
 
-# Potatoes' Ammunition v9.0.0
+# Potatoes' Ammunition v9.0.0 - Major Update
 
 ## ADDITIONS
 - 7.5mm Swiss added
