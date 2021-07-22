@@ -1,3 +1,10 @@
+# Potatoes' Ammunition v9.0.1
+
+## PAGE EDITS
+- Mod changed from "weapon" to "ammo"
+- Placeholder icon replaced
+- Added assetbundle manifest to Deli file
+
 # Potatoes' Ammunition v9.0.0
 
 ## ADDITIONS
@@ -9,10 +16,3 @@
 ## TWEAKS
 - +++P Kolibri ammo renamed to +P
 - Spread for Lionshot 55 Boys increased
-
-# Potatoes' Ammunition v9.0.1
-
-## PAGE EDITS
-- Mod changed from "weapon" to "ammo"
-- Placeholder icon replaced
-- Added assetbundle manifest to Deli file
