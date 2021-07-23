@@ -1,3 +1,8 @@
+# Potatoes Non-Repeaters v9.0.1 - Hotfix
+
+### FIXES
+- Fixed GUID conflict with Potatoes' Revolvers
+
 # Potatoes Non-Repeaters v9.0.0 - Major Update
 
 ### ADDITIONS
@@ -8,4 +13,4 @@
 - Ross Rifle added
 
 ### FIXES
--Fixed Lebel not being marked as a weapon (thus making it spawn incorrectly in TnH)
+- Fixed Lebel not being marked as a weapon (thus making it spawn incorrectly in TnH)
