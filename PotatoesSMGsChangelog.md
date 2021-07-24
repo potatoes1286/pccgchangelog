@@ -1,3 +1,8 @@
+# Potatoes' SMGs v9.0.2
+## FIXES
+- Fixed the manifest incorrectly being loaded as an assetbundle
+- Fixed the MAS 38 not being in the pack
+
 # Potatoes' SMGs v9.0.1
 ## FIXES
 - Fixed reference to Potatoes' Glocks which would cause the TnH Tweaker to fail caching
