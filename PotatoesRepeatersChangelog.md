@@ -8,6 +8,7 @@
 ### CHANGES
 
 - Werndl-Holub breech now must be opened manually (not with a button press)
+- Renamed to Potatoes' Repeaters
 
 ### FIXES
 
