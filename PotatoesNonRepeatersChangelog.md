@@ -8,11 +8,12 @@
 ### CHANGES
 
 - Werndl-Holub breech now must be opened manually (not with a button press)
-- Werndl-Holub breech cannot be opened until the hammer is cocked
 
 ### FIXES
 
 - Werndl-Holub Rifle top rail no longer breaks
+- All weapons now spawn in Take And Hold
+- Removed references to ammo, causing conflict with Potatoes' Ammunition
 
 # Potatoes Non-Repeaters v9.0.1 - Hotfix
 
