@@ -12,7 +12,7 @@
 
 ### FIXES
 
-
+- Werndl-Holub Rifle top rail no longer breaks
 
 # Potatoes Non-Repeaters v9.0.1 - Hotfix
 
