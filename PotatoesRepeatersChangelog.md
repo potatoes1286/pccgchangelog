@@ -1,4 +1,4 @@
-# Potatoes Non-Repeaters v10.0.0 - Update
+# Potatoes Repeaters v10.0.0 - Update
 
 ### ADDITIONS
 - Springfield Trapdoor added
@@ -15,12 +15,12 @@
 - All weapons now spawn in Take And Hold
 - Removed references to ammo, causing conflict with Potatoes' Ammunition
 
-# Potatoes Non-Repeaters v9.0.1 - Hotfix
+# Potatoes Repeaters v9.0.1 - Hotfix
 
 ### FIXES
 - Fixed GUID conflict with Potatoes' Revolvers
 
-# Potatoes Non-Repeaters v9.0.0 - Major Update
+# Potatoes Repeaters v9.0.0 - Major Update
 
 ### ADDITIONS
 - Werndl-Holub Rifle added
