@@ -1,3 +1,20 @@
+# Potatoes Non-Repeaters v10.0.0 - Update
+
+### ADDITIONS
+- Springfield Trapdoor added
+- Springfield Trapdoor Carbine added
+- Springfield Tactdoor added
+
+### CHANGES
+
+- Werndl-Holub breech now must be opened manually (not with a button press)
+
+### FIXES
+
+- Werndl-Holub Rifle top rail no longer breaks
+- All weapons now spawn in Take And Hold
+- Removed references to ammo, causing conflict with Potatoes' Ammunition
+
 # Potatoes Non-Repeaters v9.0.1 - Hotfix
 
 ### FIXES
