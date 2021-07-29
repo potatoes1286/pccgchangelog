@@ -6,12 +6,10 @@
 - Springfield Tactdoor added
 
 ### CHANGES
-
 - Werndl-Holub breech now must be opened manually (not with a button press)
 - Renamed to Potatoes' Repeaters
 
 ### FIXES
-
 - Werndl-Holub Rifle top rail no longer breaks
 - All weapons now spawn in Take And Hold
 - Removed references to ammo, causing conflict with Potatoes' Ammunition
