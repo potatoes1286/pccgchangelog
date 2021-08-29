@@ -1,3 +1,8 @@
+# Potatoes Rifles v9.0.1 - FIXES
+
+## FIXES
+- G34 readded
+
 # Potatoes Rifles v9.0.0 - MAJOR UPDATE
 
 ## ADDITIONS

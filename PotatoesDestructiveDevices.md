@@ -1,4 +1,4 @@
-# Potatoes' Explosive Devices v9.0.0 - MAJOR UPDATE
+# Potatoes' Destructive Devices v9.0.0 - MAJOR UPDATE
 
 ## ADDITIONS
 - Mens AT Gun Mag added
