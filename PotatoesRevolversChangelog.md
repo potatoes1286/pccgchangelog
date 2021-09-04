@@ -1,3 +1,13 @@
+# Potatoes' Revolvers v9.0.1
+
+## FIXES
+- Hunting Revolver re-added
+- Potatoes' Revolvers will now spawn in TnH
+- Manifest file re-added to deli mod.
+
+## Page Changes
+- Added full-size image of thumbnail
+
 # Potatoes' Revolvers v9.0.0
 
 ## FIXES
