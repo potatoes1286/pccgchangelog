@@ -1,3 +1,8 @@
+# Potatoes Carbines v9.0.1 - HOFIX
+
+## FIXES
+- Fixed conflict with Potatoes' Rifles
+
 # Potatoes Carbines v9.0.0 - MAJOR UPDATE
 
 ## ADDITIONS
