@@ -1,3 +1,13 @@
+# Potatoes' Pistols v9.0.1
+
+## FIXES
+- Pistols now spawn in TNH
+- Pistols manifest now included
+
+## SITE CHANGES
+
+- Image added
+
 # Potatoes' Pistols v9.0.0
 ## ADDITIONS
 - Mars Automatic added
