@@ -1,4 +1,9 @@
-# Potatoes Carbines v9.0.1 - HOFIX
+# Potatoes Carbines v9.1.0 - OTHERLOADER UPDATE
+
+## CHANGES
+- Update to Otherloader 1.0.0
+
+# Potatoes Carbines v9.0.1 - HOTFIX
 
 ## FIXES
 - Fixed conflict with Potatoes' Rifles
