@@ -1,8 +1,14 @@
+# Potatoes' Pistols v9.1.0
+
+## CHANGES
+- Updated to Otherloader v1.0.0
+
 # Potatoes' Pistols v9.0.1
 
 ## FIXES
 - Pistols now spawn in TNH
 - Pistols manifest now included
+- SP2022 mesh issue fixed
 
 ## SITE CHANGES
 
