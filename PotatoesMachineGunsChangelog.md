@@ -1,6 +1,9 @@
-# Potatoes' Machine Guns v9.0.1 - UNRELEASED
+# Potatoes' Machine Guns v9.1.0 - OTHERLOADER UPDATE
 
-### Fixes
+### CHANGES
+- Updated for Otherloader v1.0.0
+
+### FIXES
 - Chauchat can now spawn in TNH.
 - Lewis Gun can now spawn in TNH.
 - Papa Stinger can now spawn in TNH.
