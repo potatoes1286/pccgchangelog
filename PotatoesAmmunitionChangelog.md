@@ -1,3 +1,7 @@
+# Potatoes' Ammunition v9.0.2 - Otherloader Update
+- Converted to Stratum
+- Uses Otherloader's new loading system
+
 # Potatoes' Ammunition v9.0.101 - Unnecessary Fix
 
 ### PAGE EDITS
