@@ -1,3 +1,8 @@
+# Potatoes' Destructive Devices v9.1.0 - OTHERLOADER UPDATE
+
+## CHANGES
+- Updated to Otherloader v1.0.0
+
 # Potatoes' Destructive Devices v9.0.0 - MAJOR UPDATE
 
 ## ADDITIONS
