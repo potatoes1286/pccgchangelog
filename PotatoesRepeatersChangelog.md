@@ -1,18 +1,23 @@
-## Potatoes' Repeaters v10.2.0 - Otherloader Update
+# Potatoes' Repeaters v10.2.1 - Minor Fixes
+
+### FIXES
+- Gewehr98 Curved Bolt no longer vaults as a Straight Bolt
+- Werndl-Holubs now spawn with their rounds in TnH (Might require a recache of MagPatcher?)
+- Werndl-Holub no longer attempts to spawn ID "potatosssdsd" then miraculously spawns Andrew's gripp90
+- Now works with Modmas day 3 (whupsies)
+
+
+# Potatoes Repeaters v10.1.0 - Otherloader Update
+
 ## FIXES
 
 - Mannlicher no longer spawns with stripper clips.
 
 ## CHANGES
-- Updated to Otherloader v1.0.0
-
-
-# Potatoes Repeaters v10.1.0 - Minor ADDITIONS
-
-## CHANGES
 - Springfield Trapdoors now spawn 45-70 Govt
 - Werndl-Holub now spawn 11x58mmR
 - Springfield changed from Turn Of The Century to Wild West
+- Updated to Otherloader v1.0.0
 
 # Potatoes Repeaters v10.0.0 - Update
 
