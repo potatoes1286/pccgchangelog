@@ -3,7 +3,7 @@
 ### FIXES
 - Gewehr98 Curved Bolt no longer vaults as a Straight Bolt
 - Werndl-Holubs now spawn with their rounds in TnH (Might require a recache of MagPatcher?)
-- Werndl-Holub no longer attempts to spawn ID "potatosssdsd" then miraculously spawns Andrew's gripp90
+- Werndl-Holub no longer attempts to spawn ID "potatosssdsd" then miraculously spawns Andrew's gripp90 (i don't know either)
 - Now works with Modmas day 3 (whupsies)
 
 
