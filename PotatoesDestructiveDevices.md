@@ -1,3 +1,8 @@
+# Potatoes' Destructive Devices v9.1.1 - BUG FIXES
+
+## FIXES
+- Fixed QF Gun not appearing; relocated to Grenade Launchers ([#5](https://github.com/potatoes1286/pccgchangelog/issues/5))
+
 # Potatoes' Destructive Devices v9.1.0 - OTHERLOADER UPDATE
 
 ## CHANGES
