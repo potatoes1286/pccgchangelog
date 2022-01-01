@@ -1,4 +1,4 @@
-## Potatoes' SMGs v9.1.1 - Fixes / A4 Update
+# Potatoes' SMGs v9.1.1 - Fixes / A4 Update
 
 ### FIXES
 - SMGs now spawn in TnH
@@ -11,13 +11,13 @@
 ### CHANGES
 - Updated for Otherloader v1.0.0
 
-## Potatoes' SMGs v9.0.2
+# Potatoes' SMGs v9.0.2
 
 ### FIXES
 - Fixed the manifest incorrectly being loaded as an assetbundle
 - Fixed the MAS 38 not being in the pack
 
-## Potatoes' SMGs v9.0.1
+# Potatoes' SMGs v9.0.1
 
 ### FIXES
 - Fixed reference to Potatoes' Glocks which would cause the TnH Tweaker to fail caching
@@ -27,7 +27,7 @@
 - Recommended Potatoes' Ammunition version now 9.0.1
 
 
-## Potatoes' SMGs v9.0.0
+# Potatoes' SMGs v9.0.0
 
 ### ADDITIONS
 - Sterling Mk7 Added
