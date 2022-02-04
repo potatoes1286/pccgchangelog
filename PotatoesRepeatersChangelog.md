@@ -1,3 +1,13 @@
+# Potatoes' Repeaters v11.0.0
+
+### ADDITIONS
+- Schmidt-Rubin added from Modmas (Many thanks to Coutin for the model!)
+
+### PAGE CHANGES
+- Corrected the number of repeaters from 12 to 15
+- Added the Springfield and its variations to the page
+- Fixed some places calling it "non-repeaters"
+
 # Potatoes' Repeaters v10.2.1 - Minor Fixes
 
 ### FIXES
