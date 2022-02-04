@@ -1,3 +1,12 @@
+# Potatoes' Ammunition v10.0.0
+
+### Additions
+- GP90 added
+- 8mm Roth Steyr added
+
+### Fixes
+- All rounds have been properly zeroed
+
 # Potatoes' Ammunition v9.1.0 - Otherloader Update
 - Converted to Stratum
 - Uses Otherloader's new loading system
