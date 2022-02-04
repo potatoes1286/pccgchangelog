@@ -1,3 +1,12 @@
+# Potatoes' Pistols v10.0.0
+
+## ADDITIONS
+- Roth-Steyr added from Modmas (Thanks, NotColin for the model!)
+
+## FIXES
+- SP2022 rail is now correctly a Picatinny and not a MP5 Rail
+
+
 # Potatoes' Pistols v9.1.0
 
 ## CHANGES
