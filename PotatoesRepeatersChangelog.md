@@ -1,3 +1,8 @@
+# Potatoes' Repeaters v11.0.1
+
+### FIXES
+- Schmidt-Rubin actually added
+
 # Potatoes' Repeaters v11.0.0
 
 ### ADDITIONS
