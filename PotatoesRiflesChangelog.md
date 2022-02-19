@@ -1,3 +1,20 @@
+# Potatoes' Rifles v9.2.0
+
+### ADDITIONS
+- ZF4, the Gewehr 1.5x magnification scope, has been added
+
+### CHANGES
+- Now supports new item spawner
+- Gewehr now has ZF4 scope mount
+- Gewehr now in spicy 4k textures
+
+### FIXES
+- Gewehr now spawns in TnH
+- Gewehr mag now makes noise on release
+- Gewehr normal issue fixed
+- Gewehr safety properly pivots now
+- Gewehr mag now makes noise on fall
+
 # Potatoes' Rifles v9.1.0 - OTHERLOADER UPDATE
 
 ### CHANGES
