@@ -1,3 +1,8 @@
+# Potatoes' Repeaters v11.0.2
+
+### FIXES
+- Winchester 1895 re-added from HDD failure
+
 # Potatoes' Repeaters v11.0.1
 
 ### FIXES
