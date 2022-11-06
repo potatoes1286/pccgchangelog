@@ -5,6 +5,7 @@
 ### Fixed
 - Trapdoor Springfields now show in the new spawner
 - Trapdoor Springfields now spawn with their ammo in TnH
+- Mannlicher will now spawn in TnH
 
 ## [11.0.2] - 2022-2-19
 
