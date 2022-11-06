@@ -1,50 +1,50 @@
+# [Potatoes' SMGs](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_SMGs/)
 
 ## [Unreleased]
 
-### Fixes
+### Fixed
 - Fixed some ID related issues regarding Bastard Gun
 
 
-# Potatoes' SMGs v9.1.1 - Fixes / A4 Update
+## [9.1.1] - 2021-11-2
 
-### FIXES
+### Fixed
 - SMGs now spawn in TnH
 
-### CHANGES
+### Changed
 - Updated to support new item spawner
 
-# Potatoes' SMGs v9.1.0 - OTHERLOADER UPDATE
+## [9.1.0] - 2021-10-1
 
-### CHANGES
+### Changed
 - Updated for Otherloader v1.0.0
 
-# Potatoes' SMGs v9.0.2
+## [9.0.2] - 2021-7-24
 
-### FIXES
+### Fixed
 - Fixed the manifest incorrectly being loaded as an assetbundle
 - Fixed the MAS 38 not being in the pack
 
-# Potatoes' SMGs v9.0.1
+## [9.0.1] - 2021-7-22
 
-### FIXES
+### Fixed
 - Fixed reference to Potatoes' Glocks which would cause the TnH Tweaker to fail caching
 - Cheetah no longer has the Glock 19 mag in its item spawner (see above)
 
-### PAGE EDITS
+### Changed - Thunderstore Page
 - Recommended Potatoes' Ammunition version now 9.0.1
 
+## [9.0.0] - 2021-7-21
 
-# Potatoes' SMGs v9.0.0
-
-### ADDITIONS
+### Added
 - Sterling Mk7 Added
 - OVP added
 - Beretta 1918 Bigrillo added
 
-### TWEAKS
+### Changed
 - MAS 38 mag loading position more sensitive
 
-### FIXES
+### Fixed
 - MAS 38 foregrip now toggle, not hold, again
 - Beretta M1918 model fixed
 - Fixed Owen Stock Wood Camo not spawning
