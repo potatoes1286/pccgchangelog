@@ -1,5 +1,10 @@
 # [Potatoes' Revolvers v9.1.0](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Revolvers/)
 
+## [Unreleased]
+
+### Fixed
+- Detective Special and Receiver Special now appear in new item spawner
+- Detective Special and Receiver Special now spawn with proper ammo in TnH
 
 ## [9.1.0] - 2021-10-1
 
