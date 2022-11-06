@@ -1,5 +1,11 @@
 # [Potatoes' Ammunition](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Ammunition/)
 
+## [Unreleased]
+
+### Fixed
+- All ammo actually now spawns in TnH
+
+
 ## [10.0.0] - 2022-2-4
 
 ### Added
