@@ -1,4 +1,6 @@
-# Potatoes' Rifles v9.2.0
+# [Potatoes' Rifles](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Rifles/)
+
+## [9.2.0] - 2022-2-19
 
 ### ADDITIONS
 - ZF4, the Gewehr 1.5x magnification scope, has been added
@@ -15,24 +17,23 @@
 - Gewehr safety properly pivots now
 - Gewehr mag now makes noise on fall
 
-# Potatoes' Rifles v9.1.0 - OTHERLOADER UPDATE
+## [9.1.0] - 2021-10-1
 
 ### CHANGES
 - Updated for Otherloader v1.0.0
 
-# Potatoes' Rifles v9.0.1 - FIXES
+## [9.0.1] - 2021-8-29
 
 ### FIXES
 - G34 readded
 
-# Potatoes' Rifles v9.0.0 - MAJOR UPDATE
+## [9.0.0] - 2021-8-26
 
 ### ADDITIONS
 - StG57 added
 - SG 510-3 added (AKM Mags)
 - SG 510-4 added (FAL Mags)
 - SG 510-5 added (BAR Mags)
-
 
 ### TWEAKS
 - AK Underfolder renamed to AKMS
