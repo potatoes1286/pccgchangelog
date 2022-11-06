@@ -1,4 +1,4 @@
-# (Potatoes' Revolvers v9.1.0)[https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Revolvers/]
+# [Potatoes' Revolvers v9.1.0](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Revolvers/)
 
 
 ## [9.1.0] - 2021-10-1
