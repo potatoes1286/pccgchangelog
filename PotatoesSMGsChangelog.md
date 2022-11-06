@@ -1,3 +1,10 @@
+
+## [Unreleased]
+
+### Fixes
+- Fixed some ID related issues regarding Bastard Gun
+
+
 # Potatoes' SMGs v9.1.1 - Fixes / A4 Update
 
 ### FIXES
