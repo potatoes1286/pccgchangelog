@@ -1,39 +1,41 @@
-# Potatoes' Ammunition v10.0.0
+# [Potatoes' Ammunition](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Ammunition/)
 
-### Additions
+## [10.0.0] - 2022-2-4
+
+### Added
 - GP90 added
 - 8mm Roth Steyr added
 
-### Fixes
+### Fixed
 - All rounds have been properly zeroed
 
-# Potatoes' Ammunition v9.1.0 - Otherloader Update
+## [9.1.0] - 2021-9-30
 - Converted to Stratum
 - Uses Otherloader's new loading system
 
-# Potatoes' Ammunition v9.0.101 - Unnecessary Fix
+## [9.0.101] - 2021-7-22
 
-### PAGE EDITS
+### Changed - Thunderstore Page
 - Ammunition icon's source added to page
 
-### FIXES
+### Fixed
 - Fixed the manifest accidentally being globbed and attempted to load (fails then moves on, so this fix changes nothing for the user.)
 
-# Potatoes' Ammunition v9.0.1 - Page Edit
+# [9.0.1] - 2021-9-30
 
-### PAGE EDITS
+### Changed - Thunderstore Page
 - Mod changed from "weapon" to "ammo"
 - Placeholder icon replaced
 - Added assetbundle manifest to Deli file
 
-# Potatoes' Ammunition v9.0.0 - Major Update
+## [9.0.0] - 2021-7-21
 
-### ADDITIONS
+### Added
 - 7.5mm Swiss added
 - 45 Mars Auto added
 - 11x58mmR added
 - Ultra Crit Kolibri ammo added (2-3 shots headshots to kill)
 
-### TWEAKS
+### Changed
 - +++P Kolibri ammo renamed to +P
 - Spread for Lionshot 55 Boys increased
