@@ -1,5 +1,10 @@
 # [Potatoes' Rifles](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_Rifles/)
 
+## [Unreleased]
+
+### Fixed
+- OTS now spawns with a piccitiny sight in TnH
+
 ## [9.2.0] - 2022-2-19
 
 ### Added
